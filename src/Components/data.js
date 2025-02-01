@@ -1,2 +1,2 @@
-let endPoint="https://demobackend-ruem.onrender.com"
+let endPoint="https://demobackend-jz6g.onrender.com"
 export {endPoint}
